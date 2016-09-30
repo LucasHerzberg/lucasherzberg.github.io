@@ -1,0 +1,35 @@
+@font-face {
+	font-family: bubblegums;
+	src: url('bubblegums.ttf');
+}
+h1{
+	font-size:7vw;
+	color: white;
+	text-align: center;
+	font-family: bubblegums;
+	background-image: url('images/bamboo.jpg');
+	background-size: cover;
+	border-style: outset;
+	border-color:  #d28460;
+	border-width: 10px;
+	font-weight: bold;
+	}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	border-style: solid;
+	border-color:black;
+	border-width: 5px;}
+body{
+	background-image:url('images/chinagreatwall.jpg');
+	background-size: cover;
+}
+p{
+	background-color:white;
+	border-style:inset;
+	border-width: 3px;
+}
+a{
+	color:white;
+}
